@@ -1,5 +1,5 @@
 Algorithm Studies
-#################
+-----------------
 
 This repo is really just a place for us to organize and document our study of algorithms through various books. Notably, Data Structures and Algorithms for Python. I would, however, like to include SICP and Purely Functional Data Structures eventually, even if those filter out into their own repos.
 
